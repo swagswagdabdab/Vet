@@ -19,7 +19,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Daan de Sanders
   
   #### Je startniveau:
-  Blauq
+  Blauw
   #### Je focus:
   Surfaceplane
 </details>
